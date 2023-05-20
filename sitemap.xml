@@ -2,13 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://abbf.co.nz/</loc>
+    <lastmod>2023-05-20T13:52:37+12:00</lastmod>
+  </url><url>
+    <loc>https://abbf.co.nz/posts/</loc>
+    <lastmod>2023-05-20T13:52:37+12:00</lastmod>
+  </url><url>
+    <loc>https://abbf.co.nz/posts/first-post/</loc>
+    <lastmod>2023-05-20T13:52:37+12:00</lastmod>
+  </url><url>
+    <loc>https://abbf.co.nz/posts/2023_s1_r5_r6_table/</loc>
+    <lastmod>2023-05-19T14:56:16+12:00</lastmod>
+  </url><url>
+    <loc>https://abbf.co.nz/posts/2023_s1_draw/</loc>
+    <lastmod>2023-05-19T14:47:27+12:00</lastmod>
+  </url><url>
     <loc>https://abbf.co.nz/about/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://abbf.co.nz/archive/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://abbf.co.nz/</loc>
   </url><url>
     <loc>https://abbf.co.nz/categories/</loc>
   </url><url>

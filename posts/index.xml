@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Auckland Blood Bowl Federation</title>
-    <link>https://abbf.co.nz/</link>
-    <description>Recent content on Auckland Blood Bowl Federation</description>
+    <title>Posts on Auckland Blood Bowl Federation</title>
+    <link>https://abbf.co.nz/posts/</link>
+    <description>Recent content in Posts on Auckland Blood Bowl Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 May 2023 13:52:37 +1200</lastBuildDate><atom:link href="https://abbf.co.nz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 13:52:37 +1200</lastBuildDate><atom:link href="https://abbf.co.nz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the ABBF</title>
       <link>https://abbf.co.nz/posts/first-post/</link>
