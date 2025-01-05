@@ -2,82 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abbf.co.nz/posts/welcome/</loc>
+    <loc>http://localhost:1313/posts/welcome/</loc>
     <lastmod>2023-05-22T13:52:37+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-05T14:08:03+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-05T14:08:03+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_s2_introduction/</loc>
+    <loc>http://localhost:1313/posts/2024_s2_introduction/</loc>
     <lastmod>2024-07-05T14:08:03+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_s1_results/</loc>
+    <loc>http://localhost:1313/posts/2024_s1_results/</loc>
     <lastmod>2024-07-02T12:01:04+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_7s_pitches/</loc>
+    <loc>http://localhost:1313/posts/2024_7s_pitches/</loc>
     <lastmod>2024-06-05T13:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_s1_table/</loc>
+    <loc>http://localhost:1313/posts/2024_s1_table/</loc>
     <lastmod>2024-05-07T11:52:03+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_s1_introduction/</loc>
+    <loc>http://localhost:1313/posts/2024_s1_introduction/</loc>
     <lastmod>2024-01-17T16:14:17+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_7s_leagueresults/</loc>
+    <loc>http://localhost:1313/posts/2024_7s_leagueresults/</loc>
     <lastmod>2024-01-12T14:15:18+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2024_aucklandsummersevens/</loc>
+    <loc>http://localhost:1313/posts/2024_aucklandsummersevens/</loc>
     <lastmod>2024-01-09T11:04:51+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_7s_table/</loc>
+    <loc>http://localhost:1313/posts/2023_7s_table/</loc>
     <lastmod>2024-01-08T16:31:23+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s2_results/</loc>
+    <loc>http://localhost:1313/posts/2023_s2_results/</loc>
     <lastmod>2023-12-18T15:31:12+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_ppc/</loc>
+    <loc>http://localhost:1313/posts/2023_ppc/</loc>
     <lastmod>2023-12-16T14:51:18+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_7s-league/</loc>
+    <loc>http://localhost:1313/posts/2023_7s-league/</loc>
     <lastmod>2023-12-11T14:49:15+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s2_table/</loc>
+    <loc>http://localhost:1313/posts/2023_s2_table/</loc>
     <lastmod>2023-11-14T09:52:40+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_7s_is_coming/</loc>
+    <loc>http://localhost:1313/posts/2023_7s_is_coming/</loc>
     <lastmod>2023-10-25T15:23:21+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_gsc/</loc>
+    <loc>http://localhost:1313/posts/2023_gsc/</loc>
     <lastmod>2023-09-26T14:23:59+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s2_draw/</loc>
+    <loc>http://localhost:1313/posts/2023_s2_draw/</loc>
     <lastmod>2023-08-10T12:00:00+13:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s2_introduction/</loc>
+    <loc>http://localhost:1313/posts/2023_s2_introduction/</loc>
     <lastmod>2023-06-21T13:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s1_results/</loc>
+    <loc>http://localhost:1313/posts/2023_s1_results/</loc>
     <lastmod>2023-06-21T12:00:00+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s1_table/</loc>
+    <loc>http://localhost:1313/posts/2023_s1_table/</loc>
     <lastmod>2023-06-09T13:00:43+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/posts/2023_s1_draw/</loc>
+    <loc>http://localhost:1313/posts/2023_s1_draw/</loc>
     <lastmod>2023-05-19T14:47:27+12:00</lastmod>
   </url><url>
-    <loc>https://abbf.co.nz/about/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://abbf.co.nz/archive/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://abbf.co.nz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://abbf.co.nz/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://abbf.co.nz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
